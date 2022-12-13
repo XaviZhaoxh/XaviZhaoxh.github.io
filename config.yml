@@ -107,7 +107,7 @@ params:
     appendFilePath: true # to append file path to Edit link
 
   label:
-    text: xujun's Blog
+    text: Zhaoxh's Blog
     #icon: "img/xx"
     #iconHeight: 35
 
