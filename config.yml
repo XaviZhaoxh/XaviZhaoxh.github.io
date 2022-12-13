@@ -1,6 +1,6 @@
-baseURL: "https://junxu.github.io"
+baseURL: "https://XaviZhaoxh.github.io"
 #languageCode: en-us
-title: xujun
+title: XHZhao
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -23,8 +23,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: xujun 
-  description: "xujun's site"
+  title: XHZhao
+  description: "XHZhao's site"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -86,7 +86,7 @@ params:
   comments: true
   socialIcons:
     - name: github
-      url: "https://github.com/junxu"
+      url: "https://github.com/XHZhao"
 
   analytics:
     google:
@@ -102,7 +102,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/junxu/junxu.github.io/content"
+    URL: "https://github.com/XaviZhaoxh/XaviZhaoxh.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
