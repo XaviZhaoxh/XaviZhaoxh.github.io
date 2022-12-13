@@ -1,6 +1,6 @@
 baseURL: "https://XaviZhaoxh.github.io"
 #languageCode: en-us
-title: XHZhao
+title: XaviZhaoxh
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -24,7 +24,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: XHZhao
-  description: "XHZhao's site"
+  description: "XaviZhaoxh's site"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -86,7 +86,7 @@ params:
   comments: true
   socialIcons:
     - name: github
-      url: "https://github.com/XHZhao"
+      url: "https://github.com/XaviZhaoxh"
 
   analytics:
     google:
@@ -107,7 +107,7 @@ params:
     appendFilePath: true # to append file path to Edit link
 
   label:
-    text: Zhaoxh's Blog
+    text: XaviZhaoxh's Blog
     #icon: "img/xx"
     #iconHeight: 35
 
